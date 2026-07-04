@@ -6,7 +6,7 @@ The courses included in this repository support my Bachelor of Science degrees b
 
 ## Repository Structure
 
-The repository is organized by academic term, with each term containing the courses completed during that semester.
+The repository is organized by academic term, with each term containing the non-software development courses completed during that semester.
 
 ```text
 Terms and Classes/
