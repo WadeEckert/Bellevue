@@ -25,8 +25,8 @@ Terms and Classes/
 │
 ├── Summer 2025 Term/
 │   ├── Composition 1/
-│   ├── Data Wrangling/
-│   └── Foundations of Software Development/
+│   └── Data Wrangling/
+│   
 │
 └── Spring 2026 Term/
     └── Abstract Algebra/
