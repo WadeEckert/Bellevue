@@ -6,14 +6,13 @@ The courses included in this repository support my Bachelor of Science degrees b
 
 ## Repository Structure
 
-The repository is organized by academic term, with each term containing the courses completed during that semester.
+The repository is organized by academic term, with each term containing the non-software development courses completed during that semester.
 
 ```text
 Terms and Classes/
 ├── Fall 2025 Term/
 │   ├── Discrete Mathematics/
-│   ├── Composition 102/
-│   └── Intro to Python/
+│   └── Composition 102/
 │
 ├── Winter 2025 Term/
 │   └── Linear Algebra/
@@ -26,7 +25,6 @@ Terms and Classes/
 ├── Summer 2025 Term/
 │   ├── Composition 1/
 │   └── Data Wrangling/
-│   
 │
 └── Spring 2026 Term/
     └── Abstract Algebra/
