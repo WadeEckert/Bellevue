@@ -12,7 +12,7 @@ The repository is organized by academic term, with each term containing the cour
 Terms and Classes/
 ├── Fall 2025 Term/
 │   ├── Discrete Mathematics/
-│   ├── English 102/
+│   ├── Composition 102/
 │   └── Intro to Python/
 │
 ├── Winter 2025 Term/
