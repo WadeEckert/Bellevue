@@ -1,6 +1,7 @@
 # Bellevue University Coursework
 
 This repository contains coursework, assignments, and projects completed as part of my studies at **Bellevue University**. 
+
 Note: these are non-sofware development courses, which don't require their own repositories. 
 The courses included in this repository support my Bachelor of Science degrees by developing analytical thinking, mathematical reasoning, communication, and programming fundamentals.
 
