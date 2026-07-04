@@ -12,8 +12,7 @@ The repository is organized by academic term, with each term containing the cour
 Terms and Classes/
 ├── Fall 2025 Term/
 │   ├── Discrete Mathematics/
-│   ├── Composition 102/
-│   └── Intro to Python/
+│   └── Composition 102/
 │
 ├── Winter 2025 Term/
 │   └── Linear Algebra/
@@ -26,7 +25,6 @@ Terms and Classes/
 ├── Summer 2025 Term/
 │   ├── Composition 1/
 │   └── Data Wrangling/
-│   
 │
 └── Spring 2026 Term/
     └── Abstract Algebra/
